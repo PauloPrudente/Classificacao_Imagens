@@ -1,2 +1,2 @@
 # Classificacao_Imagens
-Copia de exemplo do tensorflow para aprender
+Copia de exemplo do @estevestoni para aprender
